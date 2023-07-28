@@ -33,13 +33,13 @@ Cortana can consistently score above 100, we have a fairly reliable 26 point aut
 To code Cortana we used Android Studio, 
 
 Captains Address 
-With the closing end to our powerplay season. The paladins have beeen reflecting on the previous season on what went well and how we can improve for Centre Stage. Which kickoff is in t-minus 42 days. The paladins are excitted to host kickoff in our lovely grounds of St Pauls College. With the new season just around the corner the team has been very busy in trying to improve the team in couple distinict cateogries. Which are time management and team work. The team has completed thsi goals by competing in a CAD Comp. Called Loony Squad CAD Compeition.
+With the closing end to our powerplay season. The paladins have beeen reflecting on the previous season on what went well and how we can improve for Centre Stage. Which kickoff is in t-minus 42 days. The paladins are excitted to host kickoff in our lovely grounds of St Pauls College. With the new season just around the corner the team has been very busy in trying to improve the team in couple distinict cateogries. Which are time management and team work. The team has completed thsi goals by competing in a CAD Comp. Called Loony Squad CAD Compeition. The Cad Comp has the benfiets of the following
 
 Cad Comp (LSCC)
 - Simulates Kickoff
 - Create Better Understanding of mechansims =
 - Increased CAD skills
-
+- Increaded Teamwork + Time Management
 FLL
 - Starts up next week
 
