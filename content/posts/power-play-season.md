@@ -32,18 +32,38 @@ Cortana can consistently score above 100, we have a fairly reliable 26 point aut
 
 To code Cortana we used Android Studio, 
 
-Captains Address 
-With the closing end to our powerplay season. The paladins have beeen reflecting on the previous season on what went well and how we can improve for Centre Stage. Which kickoff is in t-minus 42 days. The paladins are excitted to host kickoff in our lovely grounds of St Pauls College. With the new season just around the corner the team has been very busy in trying to improve the team in couple distinict cateogries. Which are time management and team work. The team has completed thsi goals by competing in a CAD Comp. Called Loony Squad CAD Compeition. The Cad Comp has the benfiets of the following
+
+# Captains Address 
+
+
+Hello I am Brad and im the captain of the Paladins since the start of the powerplay season (Haven't actually annouced this but HI!). With the closing end to our powerplay season. The paladins have beeen reflecting on the previous season on what went well and how we can improve for Centre Stage. Which kickoff is in t-minus 42 days. The paladins are excitted to host kickoff in our lovely grounds of St Pauls College. With the new season just around the corner the team has been very busy in trying to improve the team in couple distinict cateogries. Which are time management and team work. The team has completed thsi goals by competing in a CAD Comp. Called Loony Squad CAD Compeition. The Cad Comp has the benfiets of the following
 
 Cad Comp (LSCC)
 - Simulates Kickoff
 - Create Better Understanding of mechansims =
 - Increased CAD skills
 - Increaded Teamwork + Time Management
-FLL
-- Starts up next week
 
+However with this being a recap post on our season. I think we should mention the teams accomplishments and acheivements that we are most proud of. Which are the following
+
+# GETTING TO NATIONALS!!!!!!
+- 5th overall (Qualifing)
+- Participated in the Semi Finals
+Awards
+- Adelaide Qualifer - Inspire Award (2nd)
+- Adelaide Qualifer - Think Award (1st)
+- Adelaide Qualifer - Motivate Award (2nd)
+- Australia National Championship - Connect Award (2nd)
+Presentations
+ - School Academic expos (3)
+ - School Tours (Too many)
+ - Global FIRST Inclusivity Conference
+FLL
+- Increase of 4 New Fll teams
+FTC
+- Knights of St Pauls first season
+- New FTC team "(Mabye need to check)"
 FGC
 - Mentoring Mirconesia
-
+- Mentoring Kribati
 
