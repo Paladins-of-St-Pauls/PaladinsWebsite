@@ -49,21 +49,31 @@ However with this being a recap post on our season. I think we should mention th
 # GETTING TO NATIONALS!!!!!!
 - 5th overall (Qualifing)
 - Participated in the Semi Finals
+
 Awards
+
 - Adelaide Qualifer - Inspire Award (2nd)
 - Adelaide Qualifer - Think Award (1st)
 - Adelaide Qualifer - Motivate Award (2nd)
 - Australia National Championship - Connect Award (2nd)
+
 Presentations
+
  - School Academic expos (3)
  - School Tours (Too many)
  - Global FIRST Inclusivity Conference
+
 FLL
+
 - Increase of 4 New Fll teams
+
 FTC
+
 - Knights of St Pauls first season
 - New FTC team "(Mabye need to check)"
+
 FGC
+
 - Mentoring Mirconesia
 - Mentoring Kribati
 
