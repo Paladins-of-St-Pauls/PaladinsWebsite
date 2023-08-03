@@ -30,8 +30,16 @@ Cortana can consistently score above 100, we have a fairly reliable 26 point aut
 
 # Code
 
-To code Cortana we used Android Studio, 
+To code Cortana we used Android Studio, we have our own PaladinsOpMode classes which extend functionality on top of the standard opmodes provided by FTC. This was custom developed in house before I got here, but I have added some functionality and fixed some bugs when needed. All of our code is, like usual, available to everyone on our github. 
 
+Over the season we ran into various small oddities in both the Driver Stations and the SDK, and here is a non-exhaustive list of some of them;
+
+- Random crashes on the robot (fixed, was dodgy batteries)
+- Random crashes on the driver station (still not fixed, they are fairly rare so its not an issue but if anyone has ideas please reach out)
+- Mechanum wheels not strafing straight. (fixed, was build not code...)
+- String breaking, string breaking, string breaking and a little more string breaking... (fixed, use kevlar fishing line, not string)
+
+Those are just some of the issues we have had, if you have any solutions for any we don't, please, reach out to us.
 
 # Captains Address 
 
