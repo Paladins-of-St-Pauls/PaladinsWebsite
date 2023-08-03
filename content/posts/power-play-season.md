@@ -16,13 +16,13 @@ This is Cortana!
 
 put image here
 
-Cortana is our little creation! Cortana is fast, agile, and 100%* reliable. In case you haven't seen about FIRST or its epic philosophy. FIRST is amazing, This is my first year (pun not intended) of competing in a FIRST competition, and I can confidently say its unlike any other robotics competition, check it out [here.](https://firstinspires.org)
+Cortana is our little creation! Cortana is fast, agile, and 100%* reliable. In case you haven't heard about FIRST or its epic philosophy. FIRST is amazing, This is my first year (pun not intended) of competing in a FIRST competition, and I can confidently say its unlike any other robotics competition, check it out [here.](https://firstinspires.org)
 
 Cortana is a high scoring robot and is certainly our favourite robot here at the Paladins. We worked tirelessly making it and as such are very proud of Cortana.
 
 Insert image of us around cortana.
 
-Cortana can consistently score above 100, we have a fairly reliable 26 point autonomous and can score on high, medium, and low goals with ease. 
+Cortana can consistently score above 100, often close to 200, we have a fairly reliable 26 point autonomous and can score on high, medium, and low goals with ease. 
 
 # Build
 
@@ -30,7 +30,7 @@ Cortana can consistently score above 100, we have a fairly reliable 26 point aut
 
 # Code
 
-To code Cortana we used Android Studio, we have our own PaladinsOpMode classes which extend functionality on top of the standard opmodes provided by FTC. This was custom developed in house before I got here, but I have added some functionality and fixed some bugs when needed. All of our code is, like usual, available to everyone on our github. 
+To code Cortana we used Java, managed with Android Studio, and GitHub, we have our own PaladinsOpMode classes which extend functionality on top of the standard opmodes provided by FTC. This was custom developed in house before I got here, but I have added some functionality and fixed some bugs when needed. All of our code is, like usual, available to everyone on our GitHub. 
 
 Over the season we ran into various small oddities in both the Driver Stations and the SDK, and here is a non-exhaustive list of some of them;
 
