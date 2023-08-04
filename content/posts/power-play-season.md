@@ -2,7 +2,7 @@
 title: "Welcome to 2022/23, and welcome Powerplay!" # Post title. URL of post is filename.
 date: 2023-07-06T3.57:00:00+10:30 # Date and time of posting
 draft: true # Set this to false to publish the post
-author: Sir Levi, Captain Bradley, Sir Harry # Author's display name. i.e. Sir Somebody
+author: Sir Levi, Lord Brad, Sir Harry # Author's display name. i.e. Sir Somebody
 author-image: /img/team/sir-caleb.png # Relative link to authors image
 ---
 
