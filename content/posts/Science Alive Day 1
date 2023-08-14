@@ -1,7 +1,7 @@
 ---
 title: "Science Alive Day 1" # Post title. URL of post is filename.
 date: 2023-08-14T14:18:45+10:30 # Date and time of posting
-draft: True # Set this to false to publish the post
+draft: false # Set this to false to publish the post
 author: Lord Brad # Author's display name. i.e. Sir Somebody
 author-image: /img/team/sir-brad.png # Relative link to authors image
 ---
